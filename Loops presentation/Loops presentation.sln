@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Loops presentation", "Loops presentation\Loops presentation.pyproj", "{9B417AB0-AC7E-4751-87D7-40E104C3AF70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B417AB0-AC7E-4751-87D7-40E104C3AF70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B417AB0-AC7E-4751-87D7-40E104C3AF70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68CB2BDE-43F9-4895-AE7A-4F38A1CD3537}
+	EndGlobalSection
+EndGlobal
