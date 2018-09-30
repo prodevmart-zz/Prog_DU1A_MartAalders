@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Spelling program presentation", "Spelling program presentation\Spelling program presentation.pyproj", "{E5318E53-91C0-48E9-8E90-5FA68C747121}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5318E53-91C0-48E9-8E90-5FA68C747121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5318E53-91C0-48E9-8E90-5FA68C747121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD849F00-1B85-4F10-A761-95D730EF82D7}
+	EndGlobalSection
+EndGlobal
