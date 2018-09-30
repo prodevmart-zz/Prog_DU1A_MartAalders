@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Functie met drie parameters", "Functie met drie parameters\Functie met drie parameters.pyproj", "{ECAFB07D-1A5A-45B1-8493-7C385814FDFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECAFB07D-1A5A-45B1-8493-7C385814FDFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECAFB07D-1A5A-45B1-8493-7C385814FDFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFDDEC4E-AD5F-48D3-AE20-5A54F7EA1FFD}
+	EndGlobalSection
+EndGlobal

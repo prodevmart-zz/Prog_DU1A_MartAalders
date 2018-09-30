@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "functions presentatie", "functions presentatie\functions presentatie.pyproj", "{18A4DDC6-C204-4F67-93CD-678A30707620}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18A4DDC6-C204-4F67-93CD-678A30707620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18A4DDC6-C204-4F67-93CD-678A30707620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C1472E2-0B36-4311-AD64-342DE6F38936}
+	EndGlobalSection
+EndGlobal
