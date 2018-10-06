@@ -2,15 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>fbc177a6-634f-4fdf-bc4e-5414c4dc68f8</ProjectGuid>
+    <ProjectGuid>e9edfb71-c5b0-4e9b-a20f-21fa2be06247</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Decision_Control.py</StartupFile>
+    <StartupFile>Formatting.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>Decision Control</Name>
-    <RootNamespace>Decision Control</RootNamespace>
+    <Name>Formatting</Name>
+    <RootNamespace>Formatting</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Decision_Control.py" />
+    <Compile Include="Formatting.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

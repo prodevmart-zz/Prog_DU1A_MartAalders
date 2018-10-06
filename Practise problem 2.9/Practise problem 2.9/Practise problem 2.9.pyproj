@@ -2,15 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>f1bd193d-5740-4310-a2d9-5a8441fcbf16</ProjectGuid>
+    <ProjectGuid>6d4b2e23-c4bc-420e-be4e-3d1ef4412756</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>_2._Lists_AND_strings.py</StartupFile>
+    <StartupFile>Practise_problem_2.9.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>2. Lists AND strings</Name>
-    <RootNamespace>2. Lists AND strings</RootNamespace>
+    <Name>Practise problem 2.9</Name>
+    <RootNamespace>Practise problem 2.9</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="_2._Lists_AND_strings.py" />
+    <Compile Include="Practise_problem_2.9.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

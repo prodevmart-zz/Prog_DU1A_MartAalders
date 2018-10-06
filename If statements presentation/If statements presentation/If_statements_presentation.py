@@ -5,3 +5,4 @@ def lang_genoeg(a):
 a = input("Hoe lang ben je?")
 print(lang_genoeg(a))
 
+KKkdd

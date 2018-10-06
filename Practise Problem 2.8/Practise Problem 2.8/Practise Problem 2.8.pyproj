@@ -2,15 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>fbc177a6-634f-4fdf-bc4e-5414c4dc68f8</ProjectGuid>
+    <ProjectGuid>42c4e8d2-dfe1-4d43-946e-8223ecf30758</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Decision_Control.py</StartupFile>
+    <StartupFile>Practise_Problem_2.8.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>Decision Control</Name>
-    <RootNamespace>Decision Control</RootNamespace>
+    <Name>Practise Problem 2.8</Name>
+    <RootNamespace>Practise Problem 2.8</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Decision_Control.py" />
+    <Compile Include="Practise_Problem_2.8.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

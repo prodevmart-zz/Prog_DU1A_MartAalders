@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Decision Control", "Decision Control\Decision Control.pyproj", "{FBC177A6-634F-4FDF-BC4E-5414C4DC68F8}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Files lezen", "Files lezen\Files lezen.pyproj", "{A67D53EA-E08E-437A-8A23-ACE2FF5E016A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,13 +11,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FBC177A6-634F-4FDF-BC4E-5414C4DC68F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FBC177A6-634F-4FDF-BC4E-5414C4DC68F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A67D53EA-E08E-437A-8A23-ACE2FF5E016A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A67D53EA-E08E-437A-8A23-ACE2FF5E016A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3AFB2869-55D2-476D-94B8-3B9BB79965A5}
+		SolutionGuid = {0AFCECAF-ED2A-4921-B825-07A2DE882CD1}
 	EndGlobalSection
 EndGlobal
