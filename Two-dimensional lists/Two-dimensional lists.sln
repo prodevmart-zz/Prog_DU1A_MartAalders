@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Two-dimensional lists", "Two-dimensional lists\Two-dimensional lists.pyproj", "{D9E317FC-BB27-4CF9-814A-BC686B863AAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9E317FC-BB27-4CF9-814A-BC686B863AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9E317FC-BB27-4CF9-814A-BC686B863AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {286756A9-E7BC-42C5-9A72-980145C43B46}
+	EndGlobalSection
+EndGlobal
