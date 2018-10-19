@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Final Assignment NS functies", "Final Assignment NS functies\Final Assignment NS functies.pyproj", "{3193F3C7-2EF9-49E4-A5F6-A03DF92ED78C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3193F3C7-2EF9-49E4-A5F6-A03DF92ED78C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3193F3C7-2EF9-49E4-A5F6-A03DF92ED78C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F7808E3-DA34-4CCE-9D3F-3C38ABA3AF86}
+	EndGlobalSection
+EndGlobal
